@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/daily_marten_3143), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Dormant Accounts](./practice/sql/the-dormant-accounts) | SQL | Easy | 2026-11-03 |
 | [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Easy | 2026-11-02 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-11-02 |
 
