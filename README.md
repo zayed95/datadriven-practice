@@ -8,7 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/daily_marten_3143), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
-| [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-11-02 |
+| [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Easy | 2026-11-02 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-11-02 |
 
 <!-- datadriven:index:end -->
