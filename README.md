@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/daily_marten_3143), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [User Devices](./practice/sql/user-devices) | SQL | Medium | 2026-11-05 |
 | [Still Standing](./practice/sql/still-standing) | SQL | Medium | 2026-11-04 |
 | [Engagement by Content Type](./practice/sql/engagement-by-content-type) | SQL | Medium | 2026-11-04 |
 | [The Dormant Accounts](./practice/sql/the-dormant-accounts) | SQL | Easy | 2026-11-03 |
