@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/daily_marten_3143), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Year-over-Year Content Launches](./practice/sql/year-over-year-content-launches) | SQL | Medium | 2026-11-07 |
 | [User Devices](./practice/sql/user-devices) | SQL | Medium | 2026-11-05 |
 | [Still Standing](./practice/sql/still-standing) | SQL | Medium | 2026-11-04 |
 | [Engagement by Content Type](./practice/sql/engagement-by-content-type) | SQL | Medium | 2026-11-04 |
