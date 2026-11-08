@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/daily_marten_3143), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Original Keeper](./practice/python/the-original-keeper) | Python | Easy | 2026-11-08 |
 | [Where the Lines Break](./practice/python/where-the-lines-break) | Python | Easy | 2026-11-08 |
 | [Average Review Comments by Author](./practice/sql/average-review-comments-by-author) | SQL | Medium | 2026-11-08 |
 | [Year-over-Year Content Launches](./practice/sql/year-over-year-content-launches) | SQL | Medium | 2026-11-07 |
