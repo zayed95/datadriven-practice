@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/daily_marten_3143), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Users Per Device Type](./practice/sql/users-per-device-type) | SQL | Easy | 2026-11-10 |
 | [The Scorched Earth Reviews](./practice/sql/the-scorched-earth-reviews) | SQL | Easy | 2026-11-10 |
 | [Past the Threshold](./practice/sql/past-the-threshold) | SQL | Medium | 2026-11-09 |
 | [The Original Keeper](./practice/python/the-original-keeper) | Python | Easy | 2026-11-08 |
