@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/daily_marten_3143), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Loudest in the Room](./practice/sql/the-loudest-in-the-room) | SQL | Medium | 2026-11-11 |
 | [Users Per Device Type](./practice/sql/users-per-device-type) | SQL | Easy | 2026-11-10 |
 | [The Scorched Earth Reviews](./practice/sql/the-scorched-earth-reviews) | SQL | Easy | 2026-11-10 |
 | [Past the Threshold](./practice/sql/past-the-threshold) | SQL | Medium | 2026-11-09 |
