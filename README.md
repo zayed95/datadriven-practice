@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/zayed95), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Average Results for Python Searches](./practice/sql/average-results-for-python-searches) | SQL | Medium | 2026-11-16 |
 | [High Engagement Pages](./practice/sql/high-engagement-pages) | SQL | Hard | 2026-11-13 |
 | [The Loudest in the Room](./practice/sql/the-loudest-in-the-room) | SQL | Medium | 2026-11-11 |
 | [Users Per Device Type](./practice/sql/users-per-device-type) | SQL | Easy | 2026-11-10 |
