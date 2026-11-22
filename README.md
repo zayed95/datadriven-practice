@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/zayed95), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Across the Aisles](./practice/sql/across-the-aisles) | SQL | Hard | 2026-11-22 |
 | [Allocations in Top Spending Region](./practice/sql/allocations-in-top-spending-region) | SQL | Hard | 2026-11-17 |
 | [The Perennials](./practice/sql/the-perennials) | SQL | Easy | 2026-11-17 |
 | [Average Results for Python Searches](./practice/sql/average-results-for-python-searches) | SQL | Medium | 2026-11-16 |
