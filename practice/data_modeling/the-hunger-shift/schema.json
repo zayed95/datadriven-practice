@@ -1,0 +1,75 @@
+{
+  "tables": [
+    {
+      "name": "orders",
+      "columns": [
+        {
+          "name": "order_id",
+          "type": "INT",
+          "key": "pk"
+        },
+        {
+          "name": "order_date",
+          "type": "TIMESTAMP"
+        },
+        {
+          "name": "city",
+          "type": "VARCHAR"
+        }
+      ]
+    },
+    {
+      "name": "dishes",
+      "columns": [
+        {
+          "name": "dish_id",
+          "type": "INT",
+          "key": "pk"
+        },
+        {
+          "name": "dish_name",
+          "type": "VARCHAR"
+        }
+      ]
+    },
+    {
+      "name": "order_dish",
+      "columns": [
+        {
+          "name": "dish_id",
+          "type": "INT",
+          "key": "pk"
+        },
+        {
+          "name": "order_id",
+          "type": "INT",
+          "key": "pk"
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "from": {
+        "table": "order_dish",
+        "column": "dish_id"
+      },
+      "to": {
+        "table": "dishes",
+        "column": "dish_id"
+      },
+      "foreign_key": true
+    },
+    {
+      "from": {
+        "table": "order_dish",
+        "column": "order_id"
+      },
+      "to": {
+        "table": "orders",
+        "column": "order_id"
+      },
+      "foreign_key": true
+    }
+  ]
+}
