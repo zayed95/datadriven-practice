@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/zayed95), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [First Interaction Credit](./practice/sql/first-interaction-credit) | SQL | Hard | 2026-11-23 |
 | [Deep Pockets](./practice/sql/deep-pockets) | SQL | Medium | 2026-11-23 |
 | [The Hunger Shift](./practice/data_modeling/the-hunger-shift) | Data Modeling | Medium | 2026-11-22 |
 | [Across the Aisles](./practice/sql/across-the-aisles) | SQL | Hard | 2026-11-22 |
