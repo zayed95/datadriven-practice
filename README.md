@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/zayed95), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Mentorship User Pairs](./practice/sql/mentorship-user-pairs) | SQL | Medium | 2026-11-23 |
 | [The Cache That Ate the Cluster](./practice/sql/the-cache-that-ate-the-cluster) | SQL | Medium | 2026-11-23 |
 | [First Interaction Credit](./practice/sql/first-interaction-credit) | SQL | Hard | 2026-11-23 |
 | [Deep Pockets](./practice/sql/deep-pockets) | SQL | Medium | 2026-11-23 |
