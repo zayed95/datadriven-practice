@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/zayed95), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Tokens With Non-Read Scope Prefix](./practice/sql/tokens-with-non-read-scope-prefix) | SQL | Medium | 2026-11-25 |
 | [Above the Fold](./practice/sql/above-the-fold) | SQL | Hard | 2026-11-24 |
 | [Where You Stand](./practice/sql/where-you-stand) | SQL | Easy | 2026-11-24 |
 | [Mentorship User Pairs](./practice/sql/mentorship-user-pairs) | SQL | Medium | 2026-11-23 |
