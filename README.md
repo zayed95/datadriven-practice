@@ -16,7 +16,7 @@ Scored work from [DataDriven](https://datadriven.io/u/zayed95), committed here a
 | [First Interaction Credit](./practice/sql/first-interaction-credit) | SQL | Hard | 2026-11-23 |
 | [Deep Pockets](./practice/sql/deep-pockets) | SQL | Medium | 2026-11-23 |
 | [The Hunger Shift](./practice/data_modeling/the-hunger-shift) | Data Modeling | Medium | 2026-11-22 |
-| [Across the Aisles](./practice/sql/across-the-aisles) | SQL | Hard | 2026-11-22 |
+| [Across the Aisles](./practice/sql/across-the-aisles) | SQL | Medium | 2026-11-22 |
 | [Allocations in Top Spending Region](./practice/sql/allocations-in-top-spending-region) | SQL | Hard | 2026-11-17 |
 | [The Perennials](./practice/sql/the-perennials) | SQL | Easy | 2026-11-17 |
 | [Average Results for Python Searches](./practice/sql/average-results-for-python-searches) | SQL | Medium | 2026-11-16 |
